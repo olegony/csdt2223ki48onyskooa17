@@ -12,7 +12,7 @@ a. details about repo; b. task details; c. student number.
 6. Create pull request with name task1 and submit author as reviewer.
 7. After the reviewer approved – merge request into develop branch.
 ______________________________________________________________________________________________________
-* Student: Onysko Oleg Andiyovych 
+* Student: Onysko Oleg Andriyovych 
 * Students number: 17 
 * HW i-face: SPI 
 * Game: sea battle game 
